@@ -4,14 +4,10 @@
 
 Expense Tracker is a simple RESTful web application built with Node.js, Express, and mongoDB for users to track daily expenses.
 
-This project is Live on: https://sleepy-cliffs-84117.herokuapp.com/
 
 You can use the default accounts below, register an account, or use your Facebook/Google account to login.
 
-```
-email: user1@example.com/user2@example.com
-password: 12345678
-```
+
 
 ## Features
 
@@ -50,7 +46,7 @@ After login, users can:
 #### Clone the repository locally
 
 ```
-$ git clone https://github.com/ivyhungtw/expense-tracker.git
+$ git clone https://github.com/ishanks27/expense-tracker-master
 ```
 
 #### Install project dependencies
